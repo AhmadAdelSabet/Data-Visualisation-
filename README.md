@@ -1,2 +1,2 @@
-# Data-Analysts 
+# Data-Analysis 
 -Python/ Jupyter Notebook
